@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Spotify</string>
+    <string name="spotify_client_id">db0638cc7f1240f2b69ff0ed8b478124</string>
+    <string name="spotify_client_secret">cecc073edc564d2f8ab9e7eeaee6c094</string>
+    <string name="title_activity_login">Login</string>
+    <string name="artist_not_found">There was no artist with the specified name</string>
+    <string name="top_tracks_title">Top 10 Tracks</string>
+    <string name="access_token"></string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="title_activity_track_detail">TrackDetailActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

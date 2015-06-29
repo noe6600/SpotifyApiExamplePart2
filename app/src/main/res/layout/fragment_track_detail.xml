@@ -1,0 +1,76 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="com.app.kiory.spotify.TrackDetailActivity$PlaceholderFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="16dp"
+            android:gravity="center_horizontal"
+            android:id="@+id/detail_artist" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="16dp"
+            android:gravity="center_horizontal"
+            android:id="@+id/detail_album" />
+
+        <ImageView
+            android:id="@+id/detail_album_thumbnail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="16dp"
+            android:src="@drawable/ic_launcher"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="16dp"
+            android:gravity="center_horizontal"
+            android:id="@+id/detail_track" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="16dp"
+            android:layout_gravity="center_horizontal">
+
+            <ImageButton
+                android:id="@+id/detail_button_previous"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@android:drawable/ic_media_previous"
+                android:padding="5dp" />
+
+            <ImageButton
+                android:id="@+id/detail_button_play"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/ic_av_play_arrow"
+                android:paddingLeft="200dp"
+                android:paddingRight="200dp" />
+
+            <ImageButton
+                android:id="@+id/detail_button_next"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@android:drawable/ic_media_next"
+                android:padding="5dp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

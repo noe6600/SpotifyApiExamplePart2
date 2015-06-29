@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/darknoe/AndroidStudioProjects/Spotify/SpotifyApiExamplePart1/app/build/intermediates/exploded-aar/spotify-web-api-android-0.1.0/libs/jacocoagent.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ea73283d55c98ab1fccb8c23d76c68b7d7ecbd83">
+        <dex dex="/Users/darknoe/AndroidStudioProjects/Spotify/SpotifyApiExamplePart1/app/build/intermediates/pre-dexed/debug/jacocoagent-b54a232c6b995869444fde2908ca2e43cde0e34b.jar" />
+    </item>
+    <item
+        jar="/Users/darknoe/AndroidStudioProjects/SpotifyApiExamplePart2/app/build/intermediates/exploded-aar/spotify-web-api-android-0.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d70c764ab4253ac103df0fa913bc6f86669f73ee">
+        <dex dex="/Users/darknoe/AndroidStudioProjects/SpotifyApiExamplePart2/app/build/intermediates/pre-dexed/debug/classes-d3d55f901e04c6d03e3b4f68b02f00d053d5fbac.jar" />
+    </item>
+    <item
+        jar="/Users/darknoe/AndroidStudioProjects/SpotifyApiExamplePart2/app/build/intermediates/exploded-aar/com.spotify.sdk/spotify-auth/1.0.0-beta10/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a2736a2c8e3bd1d508baa11851e9a77f62646d08">
+        <dex dex="/Users/darknoe/AndroidStudioProjects/SpotifyApiExamplePart2/app/build/intermediates/pre-dexed/debug/classes-37e38747c9d6eca1d51053da885b7abaa7dfcf80.jar" />
+    </item>
+    <item
+        jar="/Users/darknoe/AndroidStudioProjects/SpotifyApiExamplePart2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/darknoe/AndroidStudioProjects/SpotifyApiExamplePart2/app/build/intermediates/pre-dexed/debug/classes-c29c262e71435e83243179be08d609522e87ccd4.jar" />
+    </item>
+    <item
+        jar="/Users/darknoe/AndroidStudioProjects/SpotifyApiExamplePart2Rubric/app/build/intermediates/exploded-aar/com.spotify.sdk/spotify-auth/1.0.0-beta10/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a2736a2c8e3bd1d508baa11851e9a77f62646d08">
+        <dex dex="/Users/darknoe/AndroidStudioProjects/SpotifyApiExamplePart2Rubric/app/build/intermediates/pre-dexed/debug/classes-b83c98a9f0ed46b93beb6fcbbd6d266b0680cfff.jar" />
+    </item>
+    <item
+        jar="/Users/darknoe/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/darknoe/AndroidStudioProjects/Spotify/SpotifyApiExamplePart1/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-25cca8525a7d5b43ab31645410d6366731656cde.jar" />
+    </item>
+    <item
+        jar="/Users/darknoe/AndroidStudioProjects/Spotify/SpotifyApiExamplePart1/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/darknoe/AndroidStudioProjects/Spotify/SpotifyApiExamplePart1/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-34d2971d188e02857b9873d1accfb54a817107a5.jar" />
+    </item>
+    <item
+        jar="/Users/darknoe/AndroidStudioProjects/SpotifyApiExamplePart2/app/build/intermediates/exploded-aar/spotify-web-api-android-0.1.0/libs/jacocoagent.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ea73283d55c98ab1fccb8c23d76c68b7d7ecbd83">
+        <dex dex="/Users/darknoe/AndroidStudioProjects/SpotifyApiExamplePart2/app/build/intermediates/pre-dexed/debug/jacocoagent-8e77fb39dcb9564c2b3f28b974d4e3d4d35b2932.jar" />
+    </item>
+    <item
+        jar="/Users/darknoe/AndroidStudioProjects/SpotifyApiExamplePart2Rubric/app/build/intermediates/exploded-aar/spotify-web-api-android-0.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d70c764ab4253ac103df0fa913bc6f86669f73ee">
+        <dex dex="/Users/darknoe/AndroidStudioProjects/SpotifyApiExamplePart2Rubric/app/build/intermediates/pre-dexed/debug/classes-0d2aa24ad20d8b1c99571a08ce6b8a89399d4ac5.jar" />
+    </item>
+    <item
+        jar="/Users/darknoe/AndroidStudioProjects/Spotify/SpotifyApiExamplePart1/app/build/intermediates/exploded-aar/spotify-web-api-android-0.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d70c764ab4253ac103df0fa913bc6f86669f73ee">
+        <dex dex="/Users/darknoe/AndroidStudioProjects/Spotify/SpotifyApiExamplePart1/app/build/intermediates/pre-dexed/debug/classes-aed2edf6c149dbcef20850f106989c189bed30d8.jar" />
+    </item>
+    <item
+        jar="/Users/darknoe/AndroidStudioProjects/SpotifyApiExamplePart2Rubric/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/darknoe/AndroidStudioProjects/SpotifyApiExamplePart2Rubric/app/build/intermediates/pre-dexed/debug/classes-985b9e27512d1ddfb58806c1df27dcd44b1a7201.jar" />
+    </item>
+    <item
+        jar="/Users/darknoe/AndroidStudioProjects/SpotifyApiExamplePart2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/darknoe/AndroidStudioProjects/SpotifyApiExamplePart2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-f64d40b0a50f64c93a995dee7d49c07d32eb4896.jar" />
+    </item>
+    <item
+        jar="/Users/darknoe/AndroidStudioProjects/SpotifyApiExamplePart2Rubric/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/darknoe/AndroidStudioProjects/SpotifyApiExamplePart2Rubric/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-053f51c53889f4f2e5f988ba28c5dd97da13a2cb.jar" />
+    </item>
+    <item
+        jar="/Users/darknoe/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.2.0/c0b52915a48fa91b1b94a28d4a2997bac5f524df/okio-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="/Users/darknoe/AndroidStudioProjects/Spotify/SpotifyApiExamplePart1/app/build/intermediates/pre-dexed/debug/okio-1.2.0-cb4e4cbfa2021aa0162b2e5ab36151cd87055550.jar" />
+    </item>
+    <item
+        jar="/Users/darknoe/AndroidStudioProjects/Spotify/SpotifyApiExamplePart1/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/darknoe/AndroidStudioProjects/Spotify/SpotifyApiExamplePart1/app/build/intermediates/pre-dexed/debug/classes-c599b29fc4e11d01123786356b92f27fbf2b4d2c.jar" />
+    </item>
+    <item
+        jar="/Users/darknoe/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/darknoe/AndroidStudioProjects/Spotify/SpotifyApiExamplePart1/app/build/intermediates/pre-dexed/debug/gson-2.3.1-12a2fd4a7770772e4acd0eafcb1907450878a164.jar" />
+    </item>
+    <item
+        jar="/Users/darknoe/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.2.0/959c454243581fdf730abfd4f4745441724bcf2c/okhttp-2.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="/Users/darknoe/AndroidStudioProjects/Spotify/SpotifyApiExamplePart1/app/build/intermediates/pre-dexed/debug/okhttp-2.2.0-310cb7a3f4ffb4b705979c1c8978b3eb96ef3081.jar" />
+    </item>
+    <item
+        jar="/Users/darknoe/AndroidStudioProjects/Spotify/SpotifyApiExamplePart1/app/build/intermediates/exploded-aar/com.spotify.sdk/spotify-auth/1.0.0-beta10/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a2736a2c8e3bd1d508baa11851e9a77f62646d08">
+        <dex dex="/Users/darknoe/AndroidStudioProjects/Spotify/SpotifyApiExamplePart1/app/build/intermediates/pre-dexed/debug/classes-822c7e3d0f06b1dd5a40da9a125f661d3db460ff.jar" />
+    </item>
+    <item
+        jar="/Users/darknoe/AndroidStudioProjects/Spotify/SpotifyApiExamplePart1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/darknoe/AndroidStudioProjects/Spotify/SpotifyApiExamplePart1/app/build/intermediates/pre-dexed/debug/classes-237c725e480a68d6a533c1bed1d96306862e4020.jar" />
+    </item>
+    <item
+        jar="/Users/darknoe/AndroidStudioProjects/SpotifyApiExamplePart2Rubric/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/darknoe/AndroidStudioProjects/SpotifyApiExamplePart2Rubric/app/build/intermediates/pre-dexed/debug/classes-fca58767c813a0ec6c4a41b471e47d2649a67c08.jar" />
+    </item>
+    <item
+        jar="/Users/darknoe/AndroidStudioProjects/SpotifyApiExamplePart2Rubric/app/build/intermediates/exploded-aar/spotify-web-api-android-0.1.0/libs/jacocoagent.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ea73283d55c98ab1fccb8c23d76c68b7d7ecbd83">
+        <dex dex="/Users/darknoe/AndroidStudioProjects/SpotifyApiExamplePart2Rubric/app/build/intermediates/pre-dexed/debug/jacocoagent-78f8f2d449095c06a55e98bafd1e4d458b1176d8.jar" />
+    </item>
+    <item
+        jar="/Users/darknoe/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/darknoe/AndroidStudioProjects/Spotify/SpotifyApiExamplePart1/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-aeaaa55597f1ffc6d99ea2367dee781ca037e56a.jar" />
+    </item>
+    <item
+        jar="/Users/darknoe/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/darknoe/AndroidStudioProjects/Spotify/SpotifyApiExamplePart1/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-ece7b0aeb5e26f5121f2f09e237f5ec4dd6512fc.jar" />
+    </item>
+    <item
+        jar="/Users/darknoe/AndroidStudioProjects/SpotifyApiExamplePart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/darknoe/AndroidStudioProjects/SpotifyApiExamplePart2/app/build/intermediates/pre-dexed/debug/classes-015cd830986292d6f398f87901cc191debcaeaf8.jar" />
+    </item>
+
+</items>
