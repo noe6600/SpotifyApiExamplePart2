@@ -36,12 +36,24 @@ public class DetailActivity extends ActionBarActivity implements DetailFragment.
             mTwoPane = true;
 
             if (savedInstanceState == null){
+                DetailFragment fragment = new DetailFragment();
+                fragment.setArguments(arguments);
+
                 getSupportFragmentManager().beginTransaction()
                         .replace(R.id.track_detail_container, new TrackDetailFragment(), DETAILVIEWFRAGMENT_TAG)
                         .commit();
             }
         }else{
             mTwoPane = false;
+
+            if (savedInstanceState == null) {
+                DetailFragment fragment = new DetailFragment();
+                fragment.setArguments(arguments);
+
+                getSupportFragmentManager().beginTransaction()
+                        .add(R.id.container, fragment)
+                        .commit();
+            }
         }
 
     }
